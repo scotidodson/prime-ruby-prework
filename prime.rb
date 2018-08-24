@@ -1,4 +1,5 @@
-prime_numbers = 
+
 def prime?(int)
+  prime_numbers = []
   
 end
